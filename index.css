@@ -1,0 +1,45 @@
+body {
+    background-image: url("https://plus.unsplash.com/premium_photo-1663100722417-6e36673fe0ed?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y29kaW5nfGVufDB8fDB8fHww");
+    background-size: cover;
+    font-family: "Black Ops One", system-ui;
+    font-weight: bold;
+    text-align: center;
+    color: #f72585;
+    text-shadow: 0px 0px 1px;
+    height: 100vh;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: black;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: skyblue;
+}
+
+#save-btn {
+    background: lightgreen;
+}
+
+#max-wdth {
+    max-width: 700px;
+}
+
